@@ -1,0 +1,55 @@
+.image-container {
+  width: 100%; /* Set the width of the container */
+  /* Set the height of the container */
+  overflow: hidden; /* Hide overflow */
+}
+
+.hover-image {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.hover-image:hover {
+  opacity: 1;
+  content: url("images/mainpro-20.jpg"); /* Change the image on hover */
+}
+.hover-image1:hover {
+  opacity: 1;
+  content: url("images/mainpro-18.jpg"); /* Change the image on hover */
+}
+
+.hover-image2:hover {
+  opacity: 1;
+  content: url("images/mainpro-01.jpg"); /* Change the image on hover */
+}
+.hover-image3:hover {
+  opacity: 1;
+  content: url("images/mainpro-13.jpg"); /* Change the image on hover */
+}
+.hover-image4:hover {
+  opacity: 1;
+  content: url("images/mainpro-19.jpg"); /* Change the image on hover */
+}
+.hover-image5:hover {
+  opacity: 1;
+  content: url("images/mainpro-13.jpg"); /* Change the image on hover */
+}
+.hover-image6:hover {
+  opacity: 1;
+  content: url("images/mainpro-13.jpg"); /* Change the image on hover */
+}
+.hover-image7:hover {
+  opacity: 1;
+  content: url("images/mainpro-19.jpg"); /* Change the image on hover */
+}
+.hover-image8:hover {
+  opacity: 1;
+  content: url("images/mainpro-17.jpg"); /* Change the image on hover */
+}
+.hover-image9:hover {
+  opacity: 1;
+  content: url("images/mainpro-10.jpg"); /* Change the image on hover */
+}
+.hover-image10:hover {
+  opacity: 1;
+  content: url("images/mainpro-20.jpg"); /* Change the image on hover */
+}
